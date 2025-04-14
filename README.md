@@ -47,3 +47,8 @@ https://github.com/HaibinLai/SC24-paper-reading/blob/main/SC%20Paper%20Reading%2
 https://github.com/HaibinLai/SC24-paper-reading/blob/main/SC%20Paper%204.md
 
 https://github.com/HaibinLai/SC24-paper-reading/blob/main/SC%20Paper%205.md
+
+
+## bilibili
+
+【90篇SC 24一口气看完】 https://www.bilibili.com/video/BV1maoxYKEpu/?share_source=copy_web&vd_source=72eac555730ba7e7a64f9fa1d7f2b2d4
