@@ -22,7 +22,9 @@
 **工作流**
 1. 如何用AI来识读文章? 用什么样的 prompt 可以最好的找到文章要点?
 2. 读文章的顺序是什么? 哪些是我们第一次读文章最感兴趣的点?
-3. 如何最快找到相关工作? 
+3. 如何最快找到相关工作?
+
+## blogs
 
 [SC 24 Brief Summary 1－Paper Reading－Haibin's blog](https://www.haibinlaiblog.top/index.php/418/)
 
@@ -33,3 +35,15 @@
 [SC 24 Brief Summary 4－Paper Reading－Haibin's blog](https://www.haibinlaiblog.top/index.php/sc-24-brief-summary-4/)
 
 [SC 24 Brief Summary 5－Paper Reading－Haibin's blog](https://www.haibinlaiblog.top/index.php/sc-paper-5/)
+
+## github
+
+https://github.com/HaibinLai/SC24-paper-reading/blob/main/SC24_paper_reading_1.md
+
+https://github.com/HaibinLai/SC24-paper-reading/blob/main/SC24%20%E6%96%87%E7%AB%A0%202.md
+
+https://github.com/HaibinLai/SC24-paper-reading/blob/main/SC%20Paper%20Reading%203.md
+
+https://github.com/HaibinLai/SC24-paper-reading/blob/main/SC%20Paper%204.md
+
+https://github.com/HaibinLai/SC24-paper-reading/blob/main/SC%20Paper%205.md
