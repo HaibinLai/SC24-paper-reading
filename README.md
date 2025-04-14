@@ -25,7 +25,11 @@
 3. 如何最快找到相关工作? 
 
 [SC 24 Brief Summary 1－Paper Reading－Haibin's blog](https://www.haibinlaiblog.top/index.php/418/)
+
 [SC 24 Brief Summary 2－Paper Reading－Haibin's blog](https://www.haibinlaiblog.top/index.php/sc24-brief-summary-2/)
+
 [SC 24 Brief Summary 3－Paper Reading－Haibin's blog](https://www.haibinlaiblog.top/index.php/sc-paper-reading-3/)
+
 [SC 24 Brief Summary 4－Paper Reading－Haibin's blog](https://www.haibinlaiblog.top/index.php/sc-24-brief-summary-4/)
+
 [SC 24 Brief Summary 5－Paper Reading－Haibin's blog](https://www.haibinlaiblog.top/index.php/sc-paper-5/)
